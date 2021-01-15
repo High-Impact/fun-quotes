@@ -4,7 +4,7 @@
         <section v-else class="container mx-auto pb-24 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4">
             <div v-for="quote in quotes" class="rounded overflow-hidden shadow-lg bg-white border-4 border-blue-700 w-full">
                 <div class="px-6 py-4">
-                    <div class="text-blue-900 text-lg" v-html="quote.quote" />
+                    <div class="text-blue-900 text-lg" v-html="quote.quote" /> 
                 </div>
                 <div class="px-6 pt-4 pb-2 opacity-50">
                     <span class="inline-block rounded-full px-3 py-1 text-xs font-semibold text-blue-700 border-2 border-blue-700 mr-2 mb-2">
