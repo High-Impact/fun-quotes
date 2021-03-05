@@ -43,7 +43,7 @@ export default {
   pwa: {
     meta: {
       name:"Fun quotes",
-      description:"A log of fun quotes from a sign near my home.",
+      description:"A log of fun quotes from a sign near my home."
     }
   },
   /*
