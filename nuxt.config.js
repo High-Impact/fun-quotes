@@ -37,6 +37,14 @@ export default {
     '@nuxtjs/tailwindcss',
     '@nuxtjs/pwa',
   ],
+  pwa: {
+    manifest: {
+      name: 'Fun Quotes',
+      description:'A log of fun quotes from a sign near my home',
+      lang: 'en',
+      useWebmanifestExtension: false
+    }
+  }
   /*
    ** Build configuration
    */
