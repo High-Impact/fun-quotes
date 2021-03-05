@@ -4,14 +4,14 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: process.env.npm_package_name || '',
+    title: process.env.npm_package_name || 'Fun quotes',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
-        hid: 'description',
-        name: 'description',
-        content: process.env.npm_package_description || '',
+        hid: 'Fun quotes',
+        name: 'A log of fun quotes from a sign near my home.',
+        content: process.env.npm_package_description || 'A log of fun quotes from a sign near my home.',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/icon.png' }],
@@ -44,8 +44,6 @@ export default {
     meta: {
       name:"Fun quotes",
       description:"A log of fun quotes from a sign near my home.",
-      theme_color:"#2B6CB0",
-      ogUrl:"https://jonknoll.dev",
     }
   },
   /*
