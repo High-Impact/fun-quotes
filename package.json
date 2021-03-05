@@ -1,8 +1,8 @@
 {
-  "name": "nuxtjs",
-  "version": "1.0.0",
-  "description": "My astonishing Nuxt.js project",
-  "author": "msweeneydev",
+  "name": "Fun Quotes",
+  "version": "0.0.2",
+  "description": "A log of fun quotes from a sign near my home",
+  "author": "Jonathan Knoll",
   "private": true,
   "scripts": {
     "dev": "nuxt",
