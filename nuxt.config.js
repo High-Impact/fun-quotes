@@ -44,7 +44,7 @@ export default {
       lang: 'en',
       useWebmanifestExtension: false
     }
-  }
+  },
   /*
    ** Build configuration
    */
