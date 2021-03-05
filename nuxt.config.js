@@ -42,8 +42,7 @@ export default {
       name: 'Fun Quotes',
       short_name: 'Fun Quotes',
       description:'A log of fun quotes from a sign near my home',
-      lang: 'en',
-      useWebmanifestExtension: false
+      lang: 'en'
     }
   },
   /*
