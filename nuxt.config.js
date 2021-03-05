@@ -33,7 +33,10 @@ export default {
    */
   modules: [],
 
-  buildModules: ['@nuxtjs/tailwindcss'],
+  buildModules: [
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/pwa',
+  ],
   /*
    ** Build configuration
    */
