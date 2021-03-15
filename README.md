@@ -1,21 +1,10 @@
-# Nuxt.js Example
+# Fun Quotes
 
-This directory is a brief example of a [Nuxt.js](https://nuxtjs.org) app that can be deployed with Vercel and zero configuration.
+There's a sign near my home that gets updated every 2 weeks or so. Each time there's a new saying or quote on it. This is a web app that I made to log these.
 
-## Deploy Your Own
+<br>
+- - -
+<br>
+## The Stack
 
-Deploy your own Nuxt.js project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/nuxtjs)
-
-_Live Example: https://nuxtjs.now-examples.now.sh_
-
-### How We Created This Example
-
-To get started with Nuxt.js deployed with Vercel, you can use the [Create-Nuxt-App CLI](https://www.npmjs.com/package/create-nuxt-app) to initialize the project:
-
-```shell
-$ npx create-nuxt-app my-app
-```
-
-> The only change made is to amend the output directory in `nuxt.config.js` to `"/public"`.
+Nuxt.js for the framework and Cockpit as the CMS.
